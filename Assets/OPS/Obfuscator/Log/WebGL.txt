@@ -31674,53 +31674,51 @@
 [Debug][OPS.OBF][Setup] Load Pipeline
 [Warning][OPS.OBF][Setup] There is no assembly: Assembly-CSharp-firstpass.dll
 [Debug][OPS.OBF][Setup] Found to obfuscate assemblies (1):
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+  - D:\unitystudy\project\拥堵突围计划\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 
 [Debug][OPS.OBF][Setup] Found helper assemblies (0):
 
-[Debug][OPS.OBF][Setup] Found dependency directories (42):
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\Managed\UnityEngine
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\PlaybackEngines\WebGLSupport\Managed
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32\Facades
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\Managed
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\PlaybackEngines\WebGLSupport
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\PlaybackEngines\AndroidPlayer
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\PlaybackEngines\iOSSupport
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Library\ScriptAssemblies
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\DemiLib\Core\Editor
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\ExternalDependencyManager\Editor\1.2.177
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\Plugins\ByteGame\com.bytedance.starksdk\Editor\Tool
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Library\PackageCache\com.unity.collab-proxy@2.7.1\Lib\Editor
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\DemiLib\Core
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\DOTween\Editor
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\ExternalDependencyManager\Editor
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\DOTweenPro\Editor
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\DOTween
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\Plugins\ByteGame\com.bytedance.starksdk
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Library\PackageCache\com.unity.burst@1.8.21
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\DOTweenPro
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Library\PackageCache\com.unity.ide.rider@3.0.36\Rider\Editor
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\OPS\Plugins\Json
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\OPS\Editor\Plugins\OPS.Assets.Editor
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\OPS\Editor\Plugins\Mono.Cecil
-  - E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Assets\OPS\Obfuscator\Editor\Plugins
+[Debug][OPS.OBF][Setup] Found dependency directories (40):
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\Managed\UnityEngine
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\PlaybackEngines\WebGLSupport\Managed
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32\Facades
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\Managed
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\PlaybackEngines\WebGLSupport
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport
+  - D:\unitystudy\project\拥堵突围计划\Library\ScriptAssemblies
+  - D:\unitystudy\project\拥堵突围计划\Assets\DemiLib\Core\Editor
+  - D:\unitystudy\project\拥堵突围计划\Assets\ExternalDependencyManager\Editor\1.2.177
+  - D:\unitystudy\project\拥堵突围计划\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen
+  - D:\unitystudy\project\拥堵突围计划\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport
+  - D:\unitystudy\project\拥堵突围计划\Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor
+  - D:\unitystudy\project\拥堵突围计划\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom
+  - D:\unitystudy\project\拥堵突围计划\Assets\Plugins\ByteGame\com.bytedance.starksdk\Editor\Tool
+  - D:\unitystudy\project\拥堵突围计划\Assets\OPS\Editor\Plugins\Mono.Cecil
+  - D:\unitystudy\project\拥堵突围计划\Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator
+  - D:\unitystudy\project\拥堵突围计划\Library\PackageCache\com.unity.collab-proxy@2.7.1\Lib\Editor
+  - D:\unitystudy\project\拥堵突围计划\Assets\DemiLib\Core
+  - D:\unitystudy\project\拥堵突围计划\Assets\DOTween\Editor
+  - D:\unitystudy\project\拥堵突围计划\Assets\OPS\Obfuscator\Editor\Plugins
+  - D:\unitystudy\project\拥堵突围计划\Assets\ExternalDependencyManager\Editor
+  - D:\unitystudy\project\拥堵突围计划\Assets\DOTweenPro\Editor
+  - D:\unitystudy\project\拥堵突围计划\Assets\OPS\Editor\Plugins\OPS.Assets.Editor
+  - D:\unitystudy\project\拥堵突围计划\Assets\DOTween
+  - D:\unitystudy\project\拥堵突围计划\Assets\Plugins\ByteGame\com.bytedance.starksdk
+  - D:\unitystudy\project\拥堵突围计划\Library\PackageCache\com.unity.burst@1.8.21
+  - D:\unitystudy\project\拥堵突围计划\Assets\DOTweenPro
+  - D:\unitystudy\project\拥堵突围计划\Library\PackageCache\com.unity.ide.rider@3.0.36\Rider\Editor
+  - D:\unitystudy\project\拥堵突围计划\Assets\OPS\Plugins\Json
   - Assets\DemiLib\Core
   - Assets\DOTween
   - Assets\Plugins\ByteGame\com.bytedance.starksdk
   - Assets\DOTweenPro
   - Assets\OPS\Plugins\Json
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\NetStandard\ref\2.1.0
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\NetStandard\Extensions\2.0.0
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx
-  - E:\unitystudy\engine\2022.3.62f3c1\Editor\Managed
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\NetStandard\ref\2.1.0
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\NetStandard\Extensions\2.0.0
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx
+  - D:\unitystudy\engine\2022.3.62f3c1\Editor\Managed
 
 [Debug][OPS.OBF][Setup] Load Assembly Resolver
 [Info][OPS.OBF][Setup] Prepare Assemblies
@@ -33708,7 +33706,6 @@
 [Debug][OPS.OBF][OnObfuscate_Assemblies] [Assembly-CSharp] EpicToonFX.ETFXLightFade/OnLifeEnd has not method, so skip Random Code creation!
 [Debug][OPS.OBF][OnObfuscate_Assemblies] [Assembly-CSharp] EpicToonFX.ETFXRotation/spaceEnum has not method, so skip Random Code creation!
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Method ControlFlow
-[Warning][OPS.OBF][OnObfuscate_Assemblies] The method control flow obfuscation got skipped by your settings!
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component String - Obfuscation
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Suppress ILDasm
 [Info][OPS.OBF][OnObfuscate_Assemblies] [Assembly-CSharp] Add SuppressIldasmAttribute...
@@ -33741,7 +33738,7 @@
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Process component Remove Obfuscator Attributes
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] [Assembly-CSharp] Skip remove obfuscator attributes ...
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Save Assemblies
-[Info][OPS.OBF][OnPostObfuscate_Assemblies] Saving assembly: E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+[Info][OPS.OBF][OnPostObfuscate_Assemblies] Saving assembly: D:\unitystudy\project\拥堵突围计划\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Post process Assemblies
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Process component Unity Animation Methods - Compatibility
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Process component Unity Event Methods - Compatibility
@@ -33770,7 +33767,7 @@
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload RenameManager
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload Cache
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload Assemblies
-[Info][OPS.OBF][OnPostObfuscate_Assemblies] Unloaded assembly successfully: E:\unitystudy\project\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Unity2022_拥堵突围计划_TrafficJamEscape\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+[Info][OPS.OBF][OnPostObfuscate_Assemblies] Unloaded assembly successfully: D:\unitystudy\project\拥堵突围计划\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload Assembly Resolver
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Unloaded successfully the AssemblyResolver.
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload Pipeline

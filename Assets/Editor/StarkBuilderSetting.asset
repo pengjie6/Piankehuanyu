@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: 0
   wasmResourceUrl: http://
-  OutputDir: "E:\\unitystudy\\project\\Unity2022_\u62E5\u5835\u7A81\u56F4\u8BA1\u5212_TrafficJamEscape\\Unity2022_\u62E5\u5835\u7A81\u56F4\u8BA1\u5212_TrafficJamEscape\\Unity2022_\u62E5\u5835\u7A81\u56F4\u8BA1\u5212_TrafficJamEscape\\tt-minigame"
+  OutputDir: "D:\\unitystudy\\project\\\u62E5\u5835\u7A81\u56F4\u8BA1\u5212\\Build\\tt-minigame"
   useByteAudioAPI: 0
   wasmMemorySize: 128
   isWebGL2: 1
@@ -52,15 +52,15 @@ MonoBehaviour:
   NativeWhiteListRegex:
   - com.bytedance.starksdk
   - _Backup~
-  _appId: tt1ede686380a0448002
+  _appId: tt0bd07d6d95a2f17e07
   version: 
   autoVersion: 0
-  _webglPackagePath: "E:\\unitystudy\\project\\Unity2022_\u62E5\u5835\u7A81\u56F4\u8BA1\u5212_TrafficJamEscape\\Unity2022_\u62E5\u5835\u7A81\u56F4\u8BA1\u5212_TrafficJamEscape\\Unity2022_\u62E5\u5835\u7A81\u56F4\u8BA1\u5212_TrafficJamEscape\\tt-minigame\\tt-minigame"
+  _webglPackagePath: "D:\\unitystudy\\project\\\u62E5\u5835\u7A81\u56F4\u8BA1\u5212\\Build\\tt-minigame\\tt-minigame"
   _orientation: 0
   _iOSPerformancePlus: 0
   _menuButtonStyle: 0
   _publishType: 0
   publishDesc: 
-  idePath: "E:/douyinDeveloper/@bytedminiprogram-ide/\u6296\u97F3\u5F00\u53D1\u8005\u5DE5\u5177.exe"
+  idePath: "D:/TikTok_Developer/@bytedminiprogram-ide/\u6296\u97F3\u5F00\u53D1\u8005\u5DE5\u5177.exe"
   isConvert: 0
   isOldBuildFormat: 0
